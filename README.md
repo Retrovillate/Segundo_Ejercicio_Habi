@@ -26,7 +26,6 @@ Segundo ejercicio/
 │
 ├── ordenar_bloques.py       # Código principal con la función
 ├── test_ordenar_bloques.py  # Pruebas unitarias
-├── README.md
 
 ---
 
