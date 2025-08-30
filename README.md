@@ -22,10 +22,11 @@ Los bloques vacíos (uno o más ceros consecutivos) se representan con `X`.
 
 ## Estructura del proyecto
 
-Segundo ejercicio/
+Segundo_Ejercicio_Habi/
 │
 ├── ordenar_bloques.py       # Código principal con la función
 ├── test_ordenar_bloques.py  # Pruebas unitarias
+├── README.md
 
 ---
 
